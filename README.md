@@ -53,6 +53,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/l
 
 ### You can find in me in the web 🌍
 
-<img align="left" alt="luisabellan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <a href="https://www.luisabellan.com">Portfolio</a>
-[<img align="left" alt="luisabellandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] <a href="https://www.twitter.com/luisabellandev">Twitter</a>
-[<img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <a href="https://www.twitter.com/in/luis-abellan-dev">Linkedin</a>
+ <a href="https://www.luisabellan.com"><img align="left" alt="luisabellan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />Portfolio</a>
+ <a href="https://www.twitter.com/luisabellandev"><img align="left" alt="luisabellandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />Twitter</a>
+ <a href="https://www.twitter.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin</a>
