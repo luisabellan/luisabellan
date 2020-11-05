@@ -4,7 +4,7 @@
 
 🌱 currently learning ... Typescript, MongoDB,Wordpress Plugins and Themes
 
-👯  looking to collaborate on ... React
+👯  looking to collaborate on ... React, ML
 
 🤔 looking for help with ... Wordpress Plugins
 
@@ -15,7 +15,6 @@
 ⚡ Fun fact: ... I like chess, playing the guitar, videogames, meditation and music.
 
 
-📫 Reach me on:  
-[twitter]: https://www.twitter.com/luisabellandev
-[linkedin]: https://www.linkedin.com/in/luis-abellan-dev/
+📫 Reach me on:   [twitter]: https://www.twitter.com/luisabellandev
+                  [linkedin]: https://www.linkedin.com/in/luis-abellan-dev/
 
