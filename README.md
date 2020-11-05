@@ -16,6 +16,6 @@
 
 
 📫 Reach me on:   
-[twitter]: https://www.twitter.com/luisabellandev
-[linkedin]: https://www.linkedin.com/in/luis-abellan-dev/
+[twitter]: (https://www.twitter.com/luisabellandev)
+[linkedin]: (https://www.linkedin.com/in/luis-abellan-dev/)
 
