@@ -15,6 +15,7 @@
 ⚡ Fun fact: ... I like chess, playing the guitar, videogames, meditation and music.
 
 
-📫 Reach me on:   [twitter]: https://www.twitter.com/luisabellandev
-                  [linkedin]: https://www.linkedin.com/in/luis-abellan-dev/
+📫 Reach me on:   
+[twitter]: https://www.twitter.com/luisabellandev
+[linkedin]: https://www.linkedin.com/in/luis-abellan-dev/
 
