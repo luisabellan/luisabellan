@@ -1,6 +1,4 @@
-![img](https://i.gyazo.com/83397ec01acbe36287e7c20d4430c94f.png)
-
-
+![img](https://i.gyazo.com/83397ec01acbe36287e7c20d4430c94f.png![img](https://i.gyazo.com/a617094a78ed0f6643147d3ae1870487.png)
 
 🔭 currently working on ... LoLInfo, Carchain, Express-Groomer
 
@@ -12,9 +10,12 @@
 
 💬 Ask me about ... Web Development 
 
-📫 Reach me on: ... Twitch, Twitter, LinkedIn
-
 😄 Pronouns: ... He/Him
 
 ⚡ Fun fact: ... I like chess, playing the guitar, videogames, meditation and music.
+
+
+📫 Reach me on:  
+[twitter]: https://www.twitter.com/luisabellandev
+[linkedin]: https://www.linkedin.com/in/luis-abellan-dev/
 
