@@ -1,5 +1,4 @@
-![img](https://i.gyazo.com/83397ec01acbe36287e7c20d4430c94f.png![img](https://i.gyazo.com/a617094a78ed0f6643147d3ae1870487.png)
-
+![img](https://i.gyazo.com/83397ec01acbe36287e7c20d4430c94f.png
 🔭 currently working on ... LoLInfo, Carchain, Express-Groomer
 
 🌱 currently learning ... Typescript, MongoDB,Wordpress Plugins and Themes
