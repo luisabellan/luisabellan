@@ -51,7 +51,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/l
 
 ---
 
-### You can find in me in the web 🌍
+### You can find in me on the Internet 🌍
 
  <a href="https://www.luisabellan.com"><img align="left" alt="luisabellan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />Portfolio</a>
  <a href="https://www.twitter.com/luisabellandev"><img align="left" alt="luisabellandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />Twitter</a>
