@@ -49,6 +49,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/l
 
 ### You can find in me on the Internet 🌍
 
- <a href="https://www.luisabellan.com"><img align="left" alt="luisabellan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />Portfolio</a>
- <a href="https://www.twitter.com/luisabellandev"><img align="left" alt="luisabellandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />Twitter</a>
- <a href="https://www.twitter.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin</a>
+ <a href="https://www.luisabellan.com"><img align="left" alt="luisabellan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+ <a href="https://www.twitter.com/luisabellandev"><img align="left" alt="luisabellandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+ <a href="https://www.twitter.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
