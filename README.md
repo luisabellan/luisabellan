@@ -16,10 +16,6 @@
 
 
 
-📫 Reach me on:  
-[twitter]: (https://www.twitter.com/luisabellandev)
-[linkedin]: (https://www.linkedin.com/in/luis-abellan-dev/)
-
 
 ![Profile views](https://gpvc.arturio.dev/luisabellan)  <img src="https://img.shields.io/github/followers/luisabellan?label=Follow" style=" float:left, margin-right:10px" />
 
