@@ -1,6 +1,6 @@
 ![img](https://i.gyazo.com/83397ec01acbe36287e7c20d4430c94f.png)
 
-🔭 currently working on ... LoLInfo, Carchain, Express-Groomer
+🔭 currently working on ... LoLInfo, Carchain, Groomer Express
 
 🌱 currently learning ... Typescript, MongoDB,Wordpress Plugins and Themes
 
