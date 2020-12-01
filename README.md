@@ -2,17 +2,15 @@
 
 🔭 currently working on ... LoLInfo, Carchain, Groomer Express
 
-🌱 currently learning ... Typescript, MongoDB,Wordpress Plugins and Themes
+🌱 currently learning ... Typescript, MongoDB, Laravel
 
 👯  looking to collaborate on ... React
 
-🤔 looking for help with ... Wordpress Plugins
+🤔 looking for help with ... react-query
 
 💬 Ask me about ... Web Development 
 
 😄 Pronouns: ... He/Him
-
-⚡ Fun fact: ... I like chess, playing the guitar, videogames, meditation and music.
 
 
 
