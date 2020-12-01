@@ -2,9 +2,9 @@
 
 🔭 currently working on ... LoLInfo, Carchain, Groomer Express
 
-🌱 currently learning ... Typescript, MongoDB, Laravel
+🌱 currently learning ... Typescript, MongoDB, Laravel and German
 
-👯  looking to collaborate on ... React
+👯  looking to collaborate on ... React, Node
 
 🤔 looking for help with ... react-query
 
