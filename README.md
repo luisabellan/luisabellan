@@ -1,12 +1,12 @@
 ![img](https://i.gyazo.com/83397ec01acbe36287e7c20d4430c94f.png)
 
-🔭 currently working on ... LoLInfo, Carchain, Groomer Express
+🔭 currently working on ... LoLInfo, Online classes platform
 
-🌱 currently learning ... Typescript, MongoDB, Laravel and German
+🌱 currently learning ... Typescript, MongoDB, Hasura, Apollo
 
-👯  looking to collaborate on ... React, Node
+👯  looking to collaborate on ... React, Node, Apollo, GraphQL, Hasura, 
 
-🤔 looking for help with ... react-query
+🤔 looking for help with ... Kubernetes
 
 💬 Ask me about ... Web Development 
 
