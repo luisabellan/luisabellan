@@ -2,9 +2,9 @@
 
 🔭 currently working on ... LoLInfo, Online classes platform
 
-🌱 currently learning ... Typescript, MongoDB, Hasura, Apollo
+🌱 currently learning ... MongoDB, Hasura, Apollo
 
-👯  looking to collaborate on ... React, Node, Apollo, GraphQL, Hasura, 
+👯  looking to collaborate on ... React, Typescript, Node, Apollo, GraphQL, Hasura, 
 
 🤔 looking for help with ... Kubernetes
 
