@@ -1,4 +1,4 @@
-![img](https://i.gyazo.com/83397ec01acbe36287e7c20d4430c94f.png)
+![img](https://i.gyazo.com/c14fcaac0e071c1cbbb89521dba7eb87.png)
 
 🔭 currently working on ... Trading System with AI Agents, Online Shop, Job Aggregator
 
