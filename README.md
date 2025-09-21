@@ -47,4 +47,4 @@
 
  <a href="https://www.luisabellan.com"><img align="left" alt="luisabellan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
  <a href="https://www.twitter.com/luisabellandev"><img align="left" alt="luisabellandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
- <a href="https://www.twitter.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+ <a href="https://www.linkedin.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
