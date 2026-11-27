@@ -42,5 +42,5 @@ Full-stack developer and founder of [ABELLAN LABS SLU](https://abellanlabs.com),
 
 <a href="https://luisabellan.dev"><img alt="luisabellan.dev" src="https://img.shields.io/badge/-luisabellan.dev-2563EB?style=flat"></a>
 <a href="https://www.linkedin.com/in/luis-abellan-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat"></a>
-<a href="https://x.com/luisabellandev"><img alt="X" src="https://img.shields.io/badge/-@luisabellandev-000000?style=flat&logo=x&logoColor=white"></a>
+<a href="https://x.com/luisabellandev"><img alt="X" src="https://img.shields.io/badge/-@luisabellandev-475569?style=flat&logo=x&logoColor=white"></a>
 <a href="https://abellanlabs.com"><img alt="ABELLAN LABS" src="https://img.shields.io/badge/-ABELLAN%20LABS-0F766E?style=flat"></a>
