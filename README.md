@@ -8,7 +8,7 @@ Full-stack developer and founder of [ABELLAN LABS SLU](https://abellanlabs.com),
 
 🛡️ Guidewire … Certified Self Managed Specialist – PolicyCenter Configuration (Jul 2025) · Certified Specialist – EnterpriseEngage Configuration (Apr 2025) · Certified Associate – Jutro Developer (Apr 2025)
 
-🤖 AI … LLMs, RAG, AI agents with LangChain, speech (STT/TTS), Gradio, LLM features in products (Xeito), Claude Code and MCP, local models with Ollama
+🤖 AI … LLMs, RAG, AI agents with LangChain, speech (STT/TTS), Gradio, Hugging Face, LLM features in products (Xeito), Claude Code and MCP, local models with Ollama
 
 🎓 Learning … [IBM Generative AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) (Coursera)
 
