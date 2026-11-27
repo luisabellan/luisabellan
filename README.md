@@ -1,50 +1,42 @@
-![img](https://i.gyazo.com/c14fcaac0e071c1cbbb89521dba7eb87.png)
+# Hi, I'm Luis Abellán 👋
 
-🔭 currently working on ... Trading System with AI Agents, Online Shop, Job Aggregator
+Full-stack developer and founder of [ABELLAN LABS SLU](https://abellanlabs.com), a one-person web-development studio in Ourense, Spain. I build websites, web apps and automations for businesses, and I work on Guidewire PolicyCenter and Enterprise Engage implementations for insurers.
 
-🌱 currently learning ... AI Engineering, Elixir, Phoenix
+🔭 Working on … [Xeito](https://xeito.ai), an AI-powered remote job search platform for European developers · [abellanlabs.com](https://abellanlabs.com)
 
-👯 looking to collaborate on ... NextJS, Typescript, Node, Apollo, GraphQL, Hasura, CrewAI, Hugging Face
+🧰 Stack … Astro, React, TypeScript, Vite, Tailwind CSS, Node.js, Hono, PostgreSQL, Cloudflare Workers/Pages, Stripe, Python
 
-🤔 looking for help with ... Elixir and Phoenix
+🛡️ Guidewire … Certified Self Managed Specialist – PolicyCenter Configuration (Jul 2025) · Certified Specialist – EnterpriseEngage Configuration (Apr 2025) · Certified Associate – Jutro Developer (Apr 2025)
 
-💬 Ask me about ... Web Development 
+💬 Ask me about … web development, custom e-commerce, automation with n8n and APIs, Guidewire
 
-😄 Pronouns: ... He/Him
+😄 Pronouns … he/him
 
-
-
-
-<img src="https://img.shields.io/github/followers/luisabellan?label=Follow" style=" float:left, margin-right:10px" />
-
+<img src="https://img.shields.io/github/followers/luisabellan?label=Follow" alt="Follow" />
 
 ---
 
+### Tools I maintain
 
-### Tech & Tools Preference
-
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript&logoColor=blue"><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-Postgresql-007ACC?style=flat&logo=postgresql&logoColor=0011FFF"><img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"><img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"><img src="https://img.shields.io/badge/-Amazon-FFA611?style=flat&logo=amazon&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"><img src="[https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=green">
-
-### Other Technologies I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"><img src="https://img.shields.io/badge/-Php-black?style=flat&logo=php&logoColor=blue"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=red"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Less-cc6699?style=flat&logo=less&logoColor=ffffff"><img src="https://img.shields.io/badge/-Foundation-563D7C?style=flat&logo=foundation&logoColor=white"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-
-<!------>
-
-<!--[GitHub stats](https://github-readme-stats.vercel.app/api?username=luisabellan&show_icons=true&hide_border=true)-->
-
-<!------>
-
-
-
-
-**Check the Repositories and don't forget to give a star.** 
-
-:star: From [luisabellan](https://github.com/luisabellan)
+- [**Obsidian Dendron Importer**](https://marketplace.visualstudio.com/items?itemName=luisabellan.obsidian-dendron-importer) — VS Code extension for Dendron that imports an Obsidian vault, converting folders to dot-notation hierarchy and wikilinks to Dendron format ([source](https://github.com/luisabellan/obsidian-dendron-importer), also on [Open VSX](https://open-vsx.org/extension/luisabellan/obsidian-dendron-importer)).
+- [**dendron-obsidian-importer**](https://github.com/luisabellan/dendron-obsidian-importer) — Obsidian plugin that creates an Obsidian folder structure from a Dendron vault's dot-notation hierarchy.
+- [**aeat-compliance-calendar-verifier**](https://github.com/luisabellan/aeat-compliance-calendar-verifier) — checks a Markdown calendar of Spanish tax deadlines against AEAT's official *Calendario del contribuyente*.
 
 ---
 
-### You can find in me on the Internet 🌍
+### Tech & tools
 
- <a href="https://www.luisabellan.com"><img align="left" alt="luisabellan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
- <a href="https://www.twitter.com/luisabellandev"><img align="left" alt="luisabellandev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
- <a href="https://www.linkedin.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue"> <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Hono-E36002?style=flat&logo=hono&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-007ACC?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=green"> <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-257bd6?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white">
+
+### Also worked with
+
+<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Gosu-1C3F6E?style=flat"> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=blue"> <img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=red"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white">
+
+---
+
+### Find me on the Internet 🌍
+
+<a href="https://luisabellan.dev"><img align="left" alt="luisabellan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://x.com/luisabellandev"><img align="left" alt="luisabellandev | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://abellanlabs.com"><img align="left" alt="ABELLAN LABS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/briefcase.svg" /></a>
