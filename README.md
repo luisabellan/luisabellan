@@ -8,6 +8,10 @@ Full-stack developer and founder of [ABELLAN LABS SLU](https://abellanlabs.com),
 
 🛡️ Guidewire … Certified Self Managed Specialist – PolicyCenter Configuration (Jul 2025) · Certified Specialist – EnterpriseEngage Configuration (Apr 2025) · Certified Associate – Jutro Developer (Apr 2025)
 
+🤖 AI … LLM features in products (Xeito), LangChain, Claude Code and MCP, local models with Ollama
+
+🎓 Learning … generative AI, currently working through IBM's Generative AI learning path
+
 💬 Ask me about … web development, custom e-commerce, automation with n8n and APIs, Guidewire
 
 😄 Pronouns … he/him
