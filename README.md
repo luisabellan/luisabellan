@@ -40,7 +40,7 @@ Full-stack developer and founder of [ABELLAN LABS SLU](https://abellanlabs.com),
 
 ### Find me on the Internet 🌍
 
-<a href="https://luisabellan.dev"><img align="left" alt="luisabellan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/luis-abellan-dev"><img align="left" alt="luis-abellan-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://x.com/luisabellandev"><img align="left" alt="luisabellandev | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://abellanlabs.com"><img align="left" alt="ABELLAN LABS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/briefcase.svg" /></a>
+<a href="https://luisabellan.dev"><img alt="luisabellan.dev" src="https://img.shields.io/badge/-luisabellan.dev-2563EB?style=flat"></a>
+<a href="https://www.linkedin.com/in/luis-abellan-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat"></a>
+<a href="https://x.com/luisabellandev"><img alt="X" src="https://img.shields.io/badge/-@luisabellandev-475569?style=flat&logo=x&logoColor=white"></a>
+<a href="https://abellanlabs.com"><img alt="ABELLAN LABS" src="https://img.shields.io/badge/-ABELLAN%20LABS-0F766E?style=flat"></a>
