@@ -2,7 +2,7 @@
 
 Full-stack developer and founder of [ABELLAN LABS SLU](https://abellanlabs.com), a one-person web-development studio in Ourense, Spain. I build websites, web apps and automations for businesses, and I work on Guidewire PolicyCenter and Enterprise Engage implementations for insurers.
 
-🔭 Working on … [Xeito](https://xeito.ai), an AI-powered remote job search platform for European developers · [abellanlabs.com](https://abellanlabs.com)
+🔭 Working on … [Xeito](https://xeito.ai), an AI-powered remote job search platform for European developers · [xeito.ai](https://xeito.ai)
 
 🧰 Stack … Astro, React, TypeScript, Vite, Tailwind CSS, Node.js, Hono, PostgreSQL, Cloudflare Workers/Pages, Stripe, Python
 
