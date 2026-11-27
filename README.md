@@ -10,7 +10,7 @@ Full-stack developer and founder of [ABELLAN LABS SLU](https://abellanlabs.com),
 
 🤖 AI … LLM features in products (Xeito), LangChain, Claude Code and MCP, local models with Ollama
 
-🎓 Learning … [IBM Generative AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) (Coursera), 4 of 16 courses completed: AI foundations, generative AI essentials, prompt engineering, Python for data science and AI. Now finishing the Flask AI apps project, next up: building generative AI-powered apps with Python (LLMs, RAG, speech, Gradio)
+🎓 Learning … [IBM Generative AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) (Coursera), 4 of 16 courses completed: AI foundations, generative AI essentials, prompt engineering, Python for data science and AI. Now finishing the Flask AI apps project, and already studying parts of building generative AI-powered apps with Python (LLMs, RAG, speech, Gradio) and AI agents with RAG and LangChain
 
 💬 Ask me about … web development, custom e-commerce, automation with n8n and APIs, Guidewire
 
